@@ -23,3 +23,6 @@ the vanishing points based on RANSAC.
 ## Notes
 - Used Blender for reconstruction so make sure to have Blender installed.
 - Can also be done using VRML.
+
+## Author
+Akshay Vijay Khanna
